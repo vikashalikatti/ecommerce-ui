@@ -1,0 +1,22 @@
+{
+    "products": [
+      {
+        "id": 1,
+        "name": "p1",
+        "price": 50000,
+        "imagePath": "image1.jpeg"
+      },
+      {
+        "id": 2,
+        "name": "p2",
+        "price": 55000,
+        "imagePath": "image2.jpeg"
+      },
+      {
+        "id": 3,
+        "name": "p3",
+        "price": 60000,
+        "imagePath": "image3.webp"
+      }
+    ]
+  }
